@@ -1,7 +1,7 @@
 {
   "name": "Stick Game",
   "short_name": "Stick", 
-  "start_url": "/stick-game.bauska.org",
+  "start_url": "./index.html",
   "display": "standalone",
   "icons": [
   {
